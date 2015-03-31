@@ -1,4 +1,4 @@
-INTRO
+INTRODUCTION
 ------------
 This document describes how to:
 
