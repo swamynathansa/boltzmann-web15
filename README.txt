@@ -1,8 +1,8 @@
 
-CONTENTS OF THIS FILE
+CONTENTS OF THIS SITE.
 ---------------------
 
- * About Drupal
+ * About Drupal, the world's best CMS
  * Configuration and features
  * Installation profiles
  * Appearance
